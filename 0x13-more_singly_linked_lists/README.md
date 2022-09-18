@@ -1,1 +1,1 @@
-More tasks on singly linked list
+Solutions for tasks on more singly lineked lists
